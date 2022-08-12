@@ -1,8 +1,8 @@
-#Ejemplo de Creacion de Clases en Java
+# Ejemplo de Creacion de Clases en Java
 
 Este ejemplo toma la clase Computer y crea una Instancia de la misma en la clase ComputerDemo; como objetivo de demostracion de la Instanacia Scanner, la cual se utiliza para la obtencion de informacion en la consola.
 
-##Creando la clase Computer
+## Creando la clase Computer
 Esta clase nos servira para abstraer las propiedades de una computadora las cuales pueden ser:
 
     *Tipo de Computadora
@@ -23,7 +23,7 @@ public class Computer {
   
 }
 ```
-##Creando la clase ComputerDemo
+## Creando la clase ComputerDemo
 Ahora debemos de crear la clase **ComputerDemo** para realizar una Instancia de la clase **Computer** y realacionar los datos a traves de la obtencion de los mismos utilizando una instancia de la clase **Scaner** la cual se tiene que ralializar la importacion desde `import java.util.Scanner`
 
 ```java
