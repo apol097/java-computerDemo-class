@@ -5,10 +5,10 @@ Este ejemplo toma la clase Computer y crea una Instancia de la misma en la clase
 ## Creando la clase Computer
 Esta clase nos servira para abstraer las propiedades de una computadora las cuales pueden ser:
 
-    *Tipo de Computadora
-    *Marca de la Computadora
-    *Tipo de Procesador de la Computadora
-    *Capacidad de Memoria Ram
+* Tipo de Computadora
+* Marca de la Computadora
+* Tipo de Procesador de la Computadora
+* Capacidad de Memoria Ram
 
 Al crear la clase debemos de indicar el **modificador de acceso**, el cual para motivos de ejemplo sera de tipo `public`
 
